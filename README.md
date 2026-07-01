@@ -1,4 +1,4 @@
-# ghstats s
+# Ghstats-Tracker
 
 GitHub Activity Tracker para terminal — dashboard visual con `gum`, `gh` CLI, `jq`, `toilet` y `lolcat`.
 
